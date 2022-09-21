@@ -12,6 +12,7 @@ function Tiles({titel, text, imagelink, altimage}) {
 
         </section>
 
+
     )
 }
 
